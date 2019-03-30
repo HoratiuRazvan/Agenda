@@ -1,0 +1,35 @@
+------AGENDA-----
+TBD:
+1. Adaugare:
+1.1. Interogare tip activitate
+1.2. Interogare perioada activitate
+1.3. Interogare locatie activitate
+1.4. Interogare titlu activitate
+1.5. Serviciu(adaugare automata de luni pana vineri in perioada selectata)
+2. Stergere eveniment
+3. Schimbare font/background/customize and stuff
+4. Notificari/alarme
+5. Vizualizare calendar 
+6. Derulare calendar pe zile
+						XXXXXXX 	7. Sugestii de perioada?
+8. Filtrare dupa categorii
+9. Export agenda pe urmatoarele 7 zile in format CSV
+10. Generare statistici pe zile/luni/ani
+11. Click zi -> show details + more button.c
+??. Citat in functie de raspuns la intrebari??
+
+Clase folosite:
+1. Eveniment cu fiii:
+- Intalnire;
+- Sarcina;
+- Vacanta;
+- Serviciu.
+2. InterfataGrafica
+3. Calendar + ServiciuCalendar
+4. Agenda
+
+--SFATURI--
+
+Naming conventions
+Enums
+Modelare -> SEQ Diagram
