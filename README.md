@@ -1,3 +1,3 @@
 # Agenda
 
-Read the "plan.txt" file before start working!
+Read the "plan.txt" file before starting to work!
